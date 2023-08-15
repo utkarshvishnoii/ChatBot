@@ -1,0 +1,4 @@
+APIKEY = "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"
+
+PINECONE_API = "7c8140e1-08e0-4e47-ac01-2b93b5b7fe4a"
+PINECONE_ENV = "gcp-starter"
