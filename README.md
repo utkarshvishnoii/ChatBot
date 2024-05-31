@@ -1,2 +1,2 @@
 # ChatBot
-Upload a folder named data and dump all your training files in it.
+Upload a file and ask question from the bot about it.
